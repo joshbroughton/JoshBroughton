@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshBroughton
 - 👀 I’m interested in all things software and computing.
-- 🌱 I’m currently learning JavaScript, CSS, HTML, Java, and Data Structures and Algorithms
+- 🌱 I’m currently building things in Rails, Express, and React
 - 📫 Contact me on LinkedIn  www.linkedin.com/in/joshuabroughton
 
 <!---
