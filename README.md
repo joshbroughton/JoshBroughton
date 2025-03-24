@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @JoshBroughton
-- 👀 I’m interested in all things software and computing.
-- 🌱 I’m currently building things in Rails, Express, and React
+Mostly focusing on writing code for Shopify right now
 - 📫 Contact me on LinkedIn  www.linkedin.com/in/joshuabroughton
 
 <!---
